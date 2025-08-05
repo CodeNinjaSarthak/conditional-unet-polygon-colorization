@@ -1,0 +1,27 @@
+[
+  {
+    "input_polygon": "star.png",
+    "colour": "yellow",
+    "output_image": "yellow_star.png"
+  },
+  {
+    "input_polygon": "triangle.png",
+    "colour": "green",
+    "output_image": "green_triangle.png"
+  },
+  {
+    "input_polygon": "octagon.png",
+    "colour": "blue",
+    "output_image": "blue_octagon.png"
+  },
+  {
+    "input_polygon": "square.png",
+    "colour": "yellow",
+    "output_image": "yellow_square.png"
+  },
+  {
+    "input_polygon": "square.png",
+    "colour": "cyan",
+    "output_image": "cyan_square.png"
+  }
+]

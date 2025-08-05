@@ -1,0 +1,282 @@
+[
+  {
+    "input_polygon": "octagon.png",
+    "colour": "cyan",
+    "output_image": "cyan_octagon.png"
+  },
+  {
+    "input_polygon": "square.png",
+    "colour": "purple",
+    "output_image": "purple_square.png"
+  },
+  {
+    "input_polygon": "hexagon.png",
+    "colour": "magenta",
+    "output_image": "magenta_hexagon.png"
+  },
+  {
+    "input_polygon": "square.png",
+    "colour": "magenta",
+    "output_image": "magenta_square.png"
+  },
+  {
+    "input_polygon": "hexagon.png",
+    "colour": "purple",
+    "output_image": "purple_hexagon.png"
+  },
+  {
+    "input_polygon": "pentagon.png",
+    "colour": "green",
+    "output_image": "green_pentagon.png"
+  },
+  {
+    "input_polygon": "triangle.png",
+    "colour": "purple",
+    "output_image": "purple_triangle.png"
+  },
+  {
+    "input_polygon": "square.png",
+    "colour": "red",
+    "output_image": "red_square.png"
+  },
+  {
+    "input_polygon": "circle.png",
+    "colour": "purple",
+    "output_image": "purple_circle.png"
+  },
+  {
+    "input_polygon": "hexagon.png",
+    "colour": "green",
+    "output_image": "green_hexagon.png"
+  },
+  {
+    "input_polygon": "octagon.png",
+    "colour": "red",
+    "output_image": "red_octagon.png"
+  },
+  {
+    "input_polygon": "diamond.png",
+    "colour": "red",
+    "output_image": "red_diamond.png"
+  },
+  {
+    "input_polygon": "square.png",
+    "colour": "blue",
+    "output_image": "blue_square.png"
+  },
+  {
+    "input_polygon": "triangle.png",
+    "colour": "yellow",
+    "output_image": "yellow_triangle.png"
+  },
+  {
+    "input_polygon": "pentagon.png",
+    "colour": "orange",
+    "output_image": "orange_pentagon.png"
+  },
+  {
+    "input_polygon": "octagon.png",
+    "colour": "green",
+    "output_image": "green_octagon.png"
+  },
+  {
+    "input_polygon": "diamond.png",
+    "colour": "magenta",
+    "output_image": "magenta_diamond.png"
+  },
+  {
+    "input_polygon": "circle.png",
+    "colour": "yellow",
+    "output_image": "yellow_circle.png"
+  },
+  {
+    "input_polygon": "diamond.png",
+    "colour": "green",
+    "output_image": "green_diamond.png"
+  },
+  {
+    "input_polygon": "pentagon.png",
+    "colour": "red",
+    "output_image": "red_pentagon.png"
+  },
+  {
+    "input_polygon": "diamond.png",
+    "colour": "orange",
+    "output_image": "orange_diamond.png"
+  },
+  {
+    "input_polygon": "circle.png",
+    "colour": "magenta",
+    "output_image": "magenta_circle.png"
+  },
+  {
+    "input_polygon": "triangle.png",
+    "colour": "red",
+    "output_image": "red_triangle.png"
+  },
+  {
+    "input_polygon": "pentagon.png",
+    "colour": "purple",
+    "output_image": "purple_pentagon.png"
+  },
+  {
+    "input_polygon": "octagon.png",
+    "colour": "magenta",
+    "output_image": "magenta_octagon.png"
+  },
+  {
+    "input_polygon": "square.png",
+    "colour": "orange",
+    "output_image": "orange_square.png"
+  },
+  {
+    "input_polygon": "triangle.png",
+    "colour": "blue",
+    "output_image": "blue_triangle.png"
+  },
+  {
+    "input_polygon": "circle.png",
+    "colour": "red",
+    "output_image": "red_circle.png"
+  },
+  {
+    "input_polygon": "square.png",
+    "colour": "green",
+    "output_image": "green_square.png"
+  },
+  {
+    "input_polygon": "pentagon.png",
+    "colour": "magenta",
+    "output_image": "magenta_pentagon.png"
+  },
+  {
+    "input_polygon": "diamond.png",
+    "colour": "cyan",
+    "output_image": "cyan_diamond.png"
+  },
+  {
+    "input_polygon": "pentagon.png",
+    "colour": "blue",
+    "output_image": "blue_pentagon.png"
+  },
+  {
+    "input_polygon": "diamond.png",
+    "colour": "yellow",
+    "output_image": "yellow_diamond.png"
+  },
+  {
+    "input_polygon": "triangle.png",
+    "colour": "magenta",
+    "output_image": "magenta_triangle.png"
+  },
+  {
+    "input_polygon": "hexagon.png",
+    "colour": "yellow",
+    "output_image": "yellow_hexagon.png"
+  },
+  {
+    "input_polygon": "octagon.png",
+    "colour": "orange",
+    "output_image": "orange_octagon.png"
+  },
+  {
+    "input_polygon": "hexagon.png",
+    "colour": "orange",
+    "output_image": "orange_hexagon.png"
+  },
+  {
+    "input_polygon": "hexagon.png",
+    "colour": "red",
+    "output_image": "red_hexagon.png"
+  },
+  {
+    "input_polygon": "triangle.png",
+    "colour": "orange",
+    "output_image": "orange_triangle.png"
+  },
+  {
+    "input_polygon": "triangle.png",
+    "colour": "cyan",
+    "output_image": "cyan_triangle.png"
+  },
+  {
+    "input_polygon": "diamond.png",
+    "colour": "blue",
+    "output_image": "blue_diamond.png"
+  },
+  {
+    "input_polygon": "circle.png",
+    "colour": "green",
+    "output_image": "green_circle.png"
+  },
+  {
+    "input_polygon": "circle.png",
+    "colour": "blue",
+    "output_image": "blue_circle.png"
+  },
+  {
+    "input_polygon": "pentagon.png",
+    "colour": "yellow",
+    "output_image": "yellow_pentagon.png"
+  },
+  {
+    "input_polygon": "hexagon.png",
+    "colour": "cyan",
+    "output_image": "cyan_hexagon.png"
+  },
+  {
+    "input_polygon": "circle.png",
+    "colour": "cyan",
+    "output_image": "cyan_circle.png"
+  },
+  {
+    "input_polygon": "hexagon.png",
+    "colour": "blue",
+    "output_image": "blue_hexagon.png"
+  },
+  {
+    "input_polygon": "diamond.png",
+    "colour": "purple",
+    "output_image": "purple_diamond.png"
+  },
+  {
+    "input_polygon": "octagon.png",
+    "colour": "yellow",
+    "output_image": "yellow_octagon.png"
+  },
+  {
+    "input_polygon": "circle.png",
+    "colour": "orange",
+    "output_image": "orange_circle.png"
+  },
+  {
+    "input_polygon": "octagon.png",
+    "colour": "purple",
+    "output_image": "purple_octagon.png"
+  },
+  {
+    "input_polygon": "octagon.png",
+    "colour": "blue",
+    "output_image": "blue_octagon.png"
+  },
+  {
+    "input_polygon": "star.png",
+    "colour": "red",
+    "output_image": "red_star.png"
+  },
+  {
+    "input_polygon": "star.png",
+    "colour": "green",
+    "output_image": "green_star.png"
+  },
+  {
+    "input_polygon": "star.png",
+    "colour": "cyan",
+    "output_image": "cyan_star.png"
+  },
+  {
+    "input_polygon": "star.png",
+    "colour": "purple",
+    "output_image": "purple_star.png"
+  }
+]
